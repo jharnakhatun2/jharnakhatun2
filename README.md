@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media.licdn.com/dms/image/D4E16AQG176Dg86Qk8A/profile-displaybackgroundimage-shrink_200_800/0/1670510927682?e=1678924800&v=beta&t=AIV8mkCUSDy5pLbSAJrRw1johlqz86JTbc4pqQsqeRI)
+![Full Stack Web Developer]([https://media.licdn.com/dms/image/D4E16AQG176Dg86Qk8A/profile-displaybackgroundimage-shrink_200_800/0/1670510927682?e=1678924800&v=beta&t=AIV8mkCUSDy5pLbSAJrRw1johlqz86JTbc4pqQsqeRI](https://i.ibb.co/8x7Nwbx/White-Modern-Personal-Linked-In-Banner.png))
 # Hi there 👋, I am Jharna Khatun
 ### Full Stack Web Developer
 
