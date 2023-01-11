@@ -1,4 +1,4 @@
-![Full Stack Web Developer]([<img src="https://i.ibb.co/8x7Nwbx/White-Modern-Personal-Linked-In-Banner.png" alt="White-Modern-Personal-Linked-In-Banner" border="0](https://i.ibb.co/8x7Nwbx/White-Modern-Personal-Linked-In-Banner.png)">)
+https://i.ibb.co/KzgT3zP/White-Modern-Personal-Linked-In-Banner-1.png
 # Hi there 👋, I am Jharna Khatun
 ### Full Stack Web Developer
 
