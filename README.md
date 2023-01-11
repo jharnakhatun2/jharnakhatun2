@@ -5,7 +5,7 @@
 
 I’m an enthusiastic and competent Full Stack Web Developer, specialize in JavaScript. I have been learning web development for the last 2 years. My future goal is to make a world class and more functional website where I will use upcoming frontend and backend technologies. I am looking for a job as a Full Stack Web Developer position in a reputable company where I can expand my web developing knowledge and leverage my learnings.
 
-Skills & Experience : 
+Skills & Experience : </br>
 Expertise : JavaScript | React.js | Rest API | Json web token | ES6 | Tailwind CSS |
 Bootstrap | HTML5 | CSS
 Comfortable : Express JS | Node JS.
