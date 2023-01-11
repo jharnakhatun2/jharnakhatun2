@@ -1,4 +1,4 @@
-https://i.ibb.co/KzgT3zP/White-Modern-Personal-Linked-In-Banner-1.png
+<a href="https://ibb.co/mFKfMFj"><img src="https://i.ibb.co/KzgT3zP/White-Modern-Personal-Linked-In-Banner-1.png" alt="White-Modern-Personal-Linked-In-Banner-1" border="0"></a>
 # Hi there 👋, I am Jharna Khatun
 ### Full Stack Web Developer
 
