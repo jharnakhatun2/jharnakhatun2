@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/1JcKCp7/jharnagithubprofile.png)
 # Hi there 👋, I am Jharna Khatun
-### Full Stack Web Developer
+### MERN Stack Web Developer
 
 
 I am passionate MERN stack web developer skilled in creating dynamic and robust web applications. I am proficient in MongoDB, Express.js, React.js, and Node.js, with a strong foundation in HTML, CSS, and JavaScript. Also I am experienced in building responsive and scalable web solutions, utilizing modern frameworks and libraries. I am a collaborative team player with excellent problem-solving skills and a continuous learner mindset. I am seeking opportunities to contribute to innovative projects and make a positive impact in the world of web development.
