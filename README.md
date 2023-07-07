@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/1JcKCp7/jharnagithubprofile.png)
 # Hi there 👋, I am Jharna Khatun
 ### MERN Stack Web Developer
 
