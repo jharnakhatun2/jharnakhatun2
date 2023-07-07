@@ -7,10 +7,10 @@ I am passionate MERN stack web developer skilled in creating dynamic and robust 
 ### Skills & Experience : </br>
 Expertise : JavaScript | ES6 | JavaScript Library(React.js) | Rest API | Tailwind CSS |
 DaisyUI | ReactBootstrap | Responsive website | Bootstrap | HTML5 | CSS3 | SASS |
-LESS
+LESS </br>
 Comfortable : Express.js| Node.js | NoSQL(MongoDB) | MySQL| ReactQuery | Firebase
-Authentication | JSON Web Token (JWT) | Dotenv etc.
-Familiar with : Next.js | Redux | TypeScript etc.
+Authentication | JSON Web Token (JWT) | Dotenv etc.</br>
+Familiar with : Next.js | Redux | TypeScript etc.</br>
 Tools : Git | GitHub | CLI | Chrome Developers tool | Firebase | Netlify | Vercel | Figma |
 VS Code | Notepad++ | Photoshop, etc.
 
