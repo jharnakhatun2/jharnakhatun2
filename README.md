@@ -1,18 +1,5 @@
-# Hi there 👋, I am Jharna Khatun
-### Front End Web Developer
-
-
-I am passionate Frontend web developer skilled in creating dynamic and robust web applications. I am proficient in React.js, Next.js MongoDB, Express.js and Node.js, with a strong foundation in HTML, CSS, and JavaScript. Also I am experienced in building responsive and scalable web solutions, utilizing modern frameworks and libraries. I am a collaborative team player with excellent problem-solving skills and a continuous learner mindset. I am seeking opportunities to contribute to innovative projects and make a positive impact in the world of web development.
-
-### Skills & Experience : </br>
-Expertise : JavaScript | ES6 | JavaScript Library(React.js) | Rest API | Tailwind CSS |
-DaisyUI | ReactBootstrap | Responsive website | Bootstrap | HTML5 | CSS3 | SASS |
-LESS </br>
-Comfortable : Express.js| Node.js | NoSQL(MongoDB) | MySQL| ReactQuery | Firebase
-Authentication | JSON Web Token (JWT) | Dotenv etc.</br>
-Familiar with : Next.js | Redux | TypeScript etc.</br>
-Tools : Git | GitHub | CLI | Chrome Developers tool | Firebase | Netlify | Vercel | Figma |
-VS Code | Notepad++ | Photoshop, etc.
+## Hi 👋, I am Jharna Khatun
+I'm a dedicated Front-End Web Dev with expertise in React.js, Next.js, and TypeScript. Transforming ideas into interactive and dynamic web experiences is my forte. Let's collaborate and bring your digital vision to life! Feel free to connect. 🌟🚀
 
 - 🌱 I’m learning new technology
 - 👯 I’m looking to Team environment as Front End Developer
@@ -26,6 +13,4 @@ VS Code | Notepad++ | Photoshop, etc.
 
 ![GitHub metrics](https://metrics.lecoq.io/jharnakhatun2)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jharnakhatun2)  
-
-![Profile views](https://gpvc.arturio.dev/jharnakhatun2)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jharnakhatun2) 
