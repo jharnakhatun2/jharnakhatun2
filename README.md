@@ -11,6 +11,4 @@ I'm a dedicated Front-End Web Dev with expertise in React.js, Next.js, and TypeS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jharnakhatun2&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/jharnakhatun2)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jharnakhatun2) 
+![GitHub metrics](https://metrics.lecoq.io/jharnakhatun2)![GitHub streak stats](https://streak-stats.demolab.com/?user=jharnakhatun2) 
