@@ -16,19 +16,21 @@
   </div>
 </div>
 
+<img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right"> 
+
 <img src="https://komarev.com/ghpvc/?username=jharnakhatun2&style=flat-square&color=blue" alt="Profile views"/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <div align = "left">
-  💻 I'm a dedicated Front-End Web Developer with expertise in React.js. 
-  🌟 JavaScript is my passion.
-  🚀 Transforming ideas into interactive and dynamic web experiences is my forte.
-  📝 I regularly write code to increase my skill<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  🌱 I’m learning new technology
-  📖 I'm finding opportunities for internships in React Front End Web Development
-  💬 Ask me about React and design idea 
+  💻 I'm a dedicated Front-End Web Developer with expertise in React.js.<br>
+  🌟 JavaScript is my passion.<br>
+  🚀 Transforming ideas into interactive and dynamic web experiences is my forte.<br>
+  📝 I regularly write code to increase my skill<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+  🌱 I’m learning new technology.<br>
+  📖 I'm finding opportunities for internships in React Front End Web Development<br>
+  💬 Ask me about React and design idea <br>
   </div>
-  <img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right"> 
+  
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Jharna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharnakhatun2&theme=gotham&show_icons=true)
