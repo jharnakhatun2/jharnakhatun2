@@ -17,9 +17,10 @@
 </div>
 
 <img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right"> 
-<br>
-<br>
-<br>
+</br>
+</br>
+</br>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <div align = "left">
   💻 I'm a dedicated Front-End Web Developer with expertise in React.js.<br>
