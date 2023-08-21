@@ -34,7 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=jharnakhatun2&style=flat-square&color=blue" alt="Profile views"/>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Jharna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharnakhatun2&theme=gotham&show_icons=true)
+![Jharna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharnakhatun2&theme=gotham&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jharnakhatun2&layout=compact&theme=transparent&hide_border=false)](https://github.com/jharnakhatun2/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jharnakhatun2&theme=blue-green" />
 
 
