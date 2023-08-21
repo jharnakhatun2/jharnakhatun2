@@ -16,7 +16,7 @@
   </div>
 </div>
 
-<img src="./images/coding.PNG" width="35%" alt="vector" align="right"> 
+<img src="./images/7083598.jpg" width="35%" alt="vector" align="right"> 
 </br>
 </br>
 </br>
