@@ -8,7 +8,6 @@ I'm a dedicated Front-End Web Developer with expertise in React.js. Transforming
 ### Connect with Me : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/jharna-khatun2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/jharnakhatun2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://jharna-portfolio.vercel.app/) 
 
 ![Jharna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharnakhatun2&theme=gotham&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharnakhatun2&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Jharna Khatun" width="390"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jharnakhatun2&theme=blue-green" />
 
 
